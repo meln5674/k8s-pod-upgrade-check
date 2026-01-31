@@ -19,3 +19,7 @@ Events:
 LAST SEEN   TYPE     REASON   OBJECT             MESSAGE
 5m47s       Normal            pod/postgresql-1   New image version(s) available: ghcr.io/cloudnative-pg/postgresql:18.0-system-trixie -> 18.1-minimal-bookworm
 ```
+
+## Configuration and Credentials
+
+This tool is built on the same shared library as Podman, Buildah, and Skopeo.
